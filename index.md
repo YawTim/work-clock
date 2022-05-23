@@ -1,1 +1,23 @@
 # yawtim.github.io-work-clock-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>罗盘时钟</title>
+ 
+<link rel="stylesheet" href="work clock.css" >
+ 
+</head>
+<body>
+
+<div id="clock"></div>
+ 
+<script src="work clock.js"></script>
+ 
+</body>
+</html>
+# work clock.css
+
+# work clock.js
